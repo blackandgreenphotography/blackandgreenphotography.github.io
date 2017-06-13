@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blackandgreen.net" resolutions="1x" timestamp="1497367431209">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blackandgreen.net" resolutions="1x" timestamp="1497368681568">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="4194560161" ref="index"/>
@@ -17,6 +17,7 @@
     <file name="require.js" crc="4234670167" ref="index"/>
   </folder>
   <folder name="images">
+    <file name="a-master-favicon.ico" crc="4145264651" ref="index"/>
     <file name="u1340-8.png" crc="4171941118" ref="index"/>
     <file name="flora,studio 16,cr.jpg" crc="4198507356" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -668,7 +669,6 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="a-master-favicon.ico" crc="4145264651" ref="index"/>
   </folder>
   <file name="index.html" crc="395986835" seo="true" mt="1497367367310" redirect="true"/>
 </manifest>
