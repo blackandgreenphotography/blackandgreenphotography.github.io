@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blackandgreen.net" resolutions="1x" timestamp="1497346776579">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blackandgreen.net" resolutions="1x" timestamp="1497367431209">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="468392469" ref="index"/>
-    <file name="index.css" crc="3922503807" ref="index"/>
+    <file name="master_a-master.css" crc="4194560161" ref="index"/>
+    <file name="index.css" crc="4203934625" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -18,7 +18,6 @@
   </folder>
   <folder name="images">
     <file name="u1340-8.png" crc="4171941118" ref="index"/>
-    <file name="u1344-4.png" crc="371942624" ref="index"/>
     <file name="flora,studio 16,cr.jpg" crc="4198507356" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -362,7 +361,7 @@
     <file name="floraportrait site3137x84.jpg" crc="353674697" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="floraportrait site4 copy-crop-u2257.jpg" crc="3976901913" seo="true" ref="index">
+    <file name="floraportrait site4 copy-crop-u2257.jpg" crc="4017189776" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="floraportrait site7cl127x84.jpg" crc="4260416047" seo="true" ref="index">
@@ -380,7 +379,7 @@
     <file name="floraportrait site15-crop-u2357.jpg" crc="275244341" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="img_0079 copy-crop-u2377.jpg" crc="90355359" seo="true" ref="index">
+    <file name="img_0079 copy-crop-u2377.jpg" crc="3804647856" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="la boda una historia de amo 12127x84.jpg" crc="4236225206" seo="true" ref="index">
@@ -515,7 +514,7 @@
     <file name="tumblr_m891dgaxre1rcos3no1_1280134x84.jpg" crc="3918634180" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tumblr_m891l38xda1rcos3no1_1280-crop-u3317.jpg" crc="4071883407" seo="true" ref="index">
+    <file name="tumblr_m891l38xda1rcos3no1_1280-crop-u3317.jpg" crc="3970113756" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="tumblr_m891n1b7lq1rcos3no1_1280126x84.jpg" crc="3918717159" seo="true" ref="index">
@@ -524,7 +523,7 @@
     <file name="tumblr_m891o9bowf1rcos3no1_1280139x84.jpg" crc="358349092" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tumblr_m891syledm1rcos3no1_1280-crop-u3377.jpg" crc="153327714" seo="true" ref="index">
+    <file name="tumblr_m891syledm1rcos3no1_1280-crop-u3377.jpg" crc="4224653291" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="tumblr_m891tt6cym1rcos3no1_1280-crop-u3397.jpg" crc="215772356" seo="true" ref="index">
@@ -533,7 +532,7 @@
     <file name="tumblr_m891uo3iec1rcos3no1_1280-crop-u3417.jpg" crc="4171678752" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tumblr_m892djplml1rcos3no1_1280-crop-u3437.jpg" crc="3959794643" seo="true" ref="index">
+    <file name="tumblr_m892djplml1rcos3no1_1280-crop-u3437.jpg" crc="423755443" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="tumblr_m892ee2gop1rcos3no1_1280127x84.jpg" crc="74968317" seo="true" ref="index">
@@ -617,7 +616,7 @@
     <file name="tumblr_n9qf6l7xmx1rcos3no1_1280126x84.jpg" crc="188319123" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tumblr_n9qf8ssdpt1rcos3no1_1280-crop-u3997.jpg" crc="484995990" seo="true" ref="index">
+    <file name="tumblr_n9qf8ssdpt1rcos3no1_1280-crop-u3997.jpg" crc="3760142509" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="tumblr_n9qf846o3n1rcos3no1_1280126x84.jpg" crc="3948260995" seo="true" ref="index">
@@ -669,7 +668,7 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="u7705-4.png" crc="350701202" ref="index"/>
+    <file name="a-master-favicon.ico" crc="4145264651" ref="index"/>
   </folder>
-  <file name="index.html" crc="144613105" seo="true" mt="1497345444924" redirect="true"/>
+  <file name="index.html" crc="395986835" seo="true" mt="1497367367310" redirect="true"/>
 </manifest>
