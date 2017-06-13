@@ -6,12 +6,6 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://blackandgreen.net/images/flora,studio%2016,cr.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blackandgreen.net/images/floraclaro%20y%20oscuro.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blackandgreen.net/images/floraportrait%20ipswich%201%20copy.jpg</image:loc>
     </image:image>
     <image:image>
@@ -19,9 +13,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blackandgreen.net/images/floraportrait%20ipswich%208.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blackandgreen.net/images/floraportrait%20site3.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blackandgreen.net/images/floraportrait%20site4%20copy.jpg</image:loc>
@@ -52,15 +43,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blackandgreen.net/images/la%20boda%20una%20historia%20de%20amor,8.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blackandgreen.net/images/la%20bodapareja%20bailando%201,best-2%20copy.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blackandgreen.net/images/la%20bodapareja%20bailando%203%20copy.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blackandgreen.net/images/la%20bodapareja%20bailando%204%20copy.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blackandgreen.net/images/louise%20indoor%20shot%20with%20a%20lamp%20copy.jpg</image:loc>
@@ -330,12 +312,6 @@
       <image:loc>http://blackandgreen.net/images/tumblr_nagrz21ruh1rcos3no1_1280.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://blackandgreen.net/images/flora,studio%2016,cr112x102.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blackandgreen.net/images/floraclaro%20y%20oscuro112x91.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://blackandgreen.net/images/floraportrait%20ipswich%201%20copy127x84.jpg</image:loc>
     </image:image>
     <image:image>
@@ -343,9 +319,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blackandgreen.net/images/floraportrait%20ipswich%208127x84.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blackandgreen.net/images/floraportrait%20site3137x84.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blackandgreen.net/images/floraportrait%20site4%20copy-crop-u2257.jpg</image:loc>
@@ -376,15 +349,6 @@
     </image:image>
     <image:image>
       <image:loc>http://blackandgreen.net/images/la%20boda%20una%20historia%20de%20amor,8127x84.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blackandgreen.net/images/la%20bodapareja%20bailando%201,best-2%20copy127x84.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blackandgreen.net/images/la%20bodapareja%20bailando%203%20copy127x84.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://blackandgreen.net/images/la%20bodapareja%20bailando%204%20copy127x84.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blackandgreen.net/images/louise%20indoor%20shot%20with%20a%20lamp%20copy127x84.jpg</image:loc>
