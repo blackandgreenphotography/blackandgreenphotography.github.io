@@ -1,15 +1,14 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blackandgreen.net" resolutions="1x" timestamp="1497457111452">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blackandgreen.net" resolutions="1x" timestamp="1497461964002">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3953579236" ref="index"/>
-    <file name="index.css" crc="4155666853" ref="index"/>
+    <file name="master_a-master.css" crc="3856338189" ref="index"/>
+    <file name="index.css" crc="383081374" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
     <file name="museutils.js" crc="4232573551" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
     <file name="museconfig.js" crc="4152223963" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="3880853905" ref="index"/>
     <file name="webpro.js" crc="3770351119" ref="index"/>
     <file name="musewpslideshow.js" crc="4244742588" ref="index"/>
     <file name="jquery.museoverlay.js" crc="432750910" ref="index"/>
@@ -19,8 +18,7 @@
   </folder>
   <folder name="images">
     <file name="a-master-favicon.ico" crc="4145264651" ref="index"/>
-    <file name="tumblr_m8908z6gs61rcos3no1_1280-page-fr.png" crc="36495290" ref="index"/>
-    <file name="u1340-6.png" crc="3936467757" ref="index"/>
+    <file name="u1340-6.png" crc="20750704" ref="index"/>
     <file name="floraportrait ipswich 1 copy.jpg" crc="30155603" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -163,7 +161,7 @@
     <file name="tumblr_n9qfkxkunl1rcos3no1_1280126x84.jpg" crc="241261381" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="tumblr_n9qigoszfu1rcos3no1_1280-crop-u4117.jpg" crc="473366365" seo="true" ref="index">
+    <file name="tumblr_n9qigoszfu1rcos3no1_1280-crop-u4117.jpg" crc="476279456" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
     <file name="tumblr_n9qimhklhf1rcos3no1_1280116x84.jpg" crc="4046812307" seo="true" ref="index">
@@ -173,6 +171,8 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="u1344-4.png" crc="390089301" ref="index"/>
+    <file name="u7705-4.png" crc="4141796977" ref="index"/>
   </folder>
-  <file name="index.html" crc="520046248" seo="true" mt="1497457042947" redirect="true"/>
+  <file name="index.html" crc="363850289" seo="true" mt="1497461881850" redirect="true"/>
 </manifest>
