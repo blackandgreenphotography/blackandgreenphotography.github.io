@@ -1,4 +1,4 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blackandgreen.net" resolutions="1x" timestamp="1497461964002">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blackandgreen.net" resolutions="1x" timestamp="1497630648836">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="3856338189" ref="index"/>
@@ -174,5 +174,5 @@
     <file name="u1344-4.png" crc="390089301" ref="index"/>
     <file name="u7705-4.png" crc="4141796977" ref="index"/>
   </folder>
-  <file name="index.html" crc="363850289" seo="true" mt="1497461881850" redirect="true"/>
+  <file name="index.html" crc="164283095" seo="true" mt="1497630612478" redirect="true"/>
 </manifest>
