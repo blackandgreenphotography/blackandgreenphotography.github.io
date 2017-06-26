@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://blackandgreen.net/index.html</loc>
-    <lastmod>2017-06-17</lastmod>
+    <lastmod>2017-06-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -78,6 +78,33 @@
       <image:loc>http://blackandgreen.net/images/tumblr_n9qimhklhf1rcos3no1_1280.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blackandgreen.net/images/2017img_0412.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/2017scene%20in%20the%20tube-000037410014.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/2017000037410031.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/2017000037420004.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/2017000037420023.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/2017000037430021.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/2017000037430028.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/2017000037430032.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/2017river%205-000037410033-2.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blackandgreen.net/images/tumblr_nagrwksaxx1rcos3no1_1280.jpg</image:loc>
     </image:image>
     <image:image>
@@ -151,6 +178,33 @@
     </image:image>
     <image:image>
       <image:loc>http://blackandgreen.net/images/tumblr_n9qimhklhf1rcos3no1_1280116x84.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/2017img_0412112x75.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/2017scene%20in%20the%20tube-000037410014112x75.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/2017000037410031112x75.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/2017000037420004112x75.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/2017000037420023112x75.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/201700003743002156x84.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/201700003743002856x84.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/201700003743003256x84.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/2017river%205-000037410033-2112x75.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://blackandgreen.net/images/tumblr_nagrwksaxx1rcos3no1_1280126x84.jpg</image:loc>
