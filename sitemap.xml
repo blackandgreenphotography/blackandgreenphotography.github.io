@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://blackandgreen.net/index.html</loc>
-    <lastmod>2017-06-26</lastmod>
+    <lastmod>2017-06-27</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -108,6 +108,15 @@
       <image:loc>http://blackandgreen.net/images/tumblr_nagrwksaxx1rcos3no1_1280.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://blackandgreen.net/images/img_0079%20copy.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/tumblr_mao5lzesqa1rcos3no1_1280.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/tumblr_mao5phszyv1rcos3no1_1280.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://blackandgreen.net/images/floraportrait%20ipswich%201%20copy127x84.jpg</image:loc>
     </image:image>
     <image:image>
@@ -208,6 +217,15 @@
     </image:image>
     <image:image>
       <image:loc>http://blackandgreen.net/images/tumblr_nagrwksaxx1rcos3no1_1280126x84.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/img_0079%20copy63x84.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/tumblr_mao5lzesqa1rcos3no1_128057x84.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://blackandgreen.net/images/tumblr_mao5phszyv1rcos3no1_1280112x75.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
