@@ -1,8 +1,8 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blackandgreen.net" resolutions="1x" timestamp="1498578160006">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="blackandgreen.net" resolutions="1x" timestamp="1499990004152">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
     <file name="master_a-master.css" crc="3835120974" ref="index"/>
-    <file name="index.css" crc="6243518" ref="index"/>
+    <file name="index.css" crc="343665749" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -131,6 +131,15 @@
     <file name="tumblr_mao5phszyv1rcos3no1_1280.jpg" crc="3852653624" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="hijo de gabi,portrait copy.jpg" crc="4145246658" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="orange sunset marbella 2015-2.jpg" crc="280771621" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="woman working by the window,dance set.jpg" crc="3885637971" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="floraportrait ipswich 1 copy127x84.jpg" crc="231670474" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -242,9 +251,18 @@
     <file name="tumblr_mao5phszyv1rcos3no1_1280112x75.jpg" crc="4000989267" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
+    <file name="hijo de gabi,portrait copy56x84.jpg" crc="85989153" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="orange sunset marbella 2015-2112x72.jpg" crc="3804757884" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="woman working by the window,dance set56x84.jpg" crc="3883293351" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
     <file name="u1344-6.png" crc="4084233527" ref="index"/>
     <file name="u7705-4.png" crc="4141796977" ref="index"/>
   </folder>
-  <file name="index.html" crc="236523054" seo="true" mt="1498578106846" redirect="true"/>
+  <file name="index.html" crc="181787243" seo="true" mt="1499989932271" redirect="true"/>
 </manifest>
